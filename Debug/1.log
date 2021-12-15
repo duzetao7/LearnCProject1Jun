@@ -1,1 +1,3 @@
-﻿D:\Programming\VisualStudio2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(476,5): error MSB8041: 此项目需要 MFC 库。从 Visual Studio 安装程序(单个组件选项卡)为正在使用的任何工具集和体系结构安装它们。
+﻿D:\Programming\VisualStudio2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(1.vcxproj, project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  21打印1000--2000的闰年.cpp
+  1.vcxproj -> D:\Programming\Code\Code.u\U1A\learnc-junior\Debug\Project1( ).exe

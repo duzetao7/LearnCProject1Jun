@@ -15,76 +15,85 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="源.cpp">
+    <ClCompile Include="1源.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="问题.cpp">
+    <ClCompile Include="2问题.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="源1105中值-乘法.cpp">
+    <ClCompile Include="3中值-乘法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="选择学习选择成功.cpp">
+    <ClCompile Include="7选择学习选择成功.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="敲两万行代码.cpp">
+    <ClCompile Include="5敲两万行代码.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="比大小.cpp">
+    <ClCompile Include="9比大小.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="地址与指针变量.cpp">
+    <ClCompile Include="8地址与指针变量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="数据类型的大小.cpp">
+    <ClCompile Include="6数据类型的大小.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="scanf.cpp">
+    <ClCompile Include="10scanf.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="猜数.cpp">
+    <ClCompile Include="17猜数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="结构体.cpp">
+    <ClCompile Include="12结构体.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="while.cpp">
+    <ClCompile Include="14while.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="for.cpp">
+    <ClCompile Include="13for.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="n的阶乘.cpp">
+    <ClCompile Include="15n的阶乘.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="有序数组（二分）查找.cpp">
+    <ClCompile Include="16有序数组（二分）查找.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="两侧向中间出现字符.cpp">
+    <ClCompile Include="20两侧向中间出现字符.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="密码输入.cpp">
+    <ClCompile Include="18密码输入.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="三个数比大小.cpp">
+    <ClCompile Include="4三个数比大小.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="最大公约数.cpp">
+    <ClCompile Include="24最大公约数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="打印100-200的素数.cpp">
+    <ClCompile Include="19打印100-200的素数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="打印1000--2000的闰年.cpp">
+    <ClCompile Include="21打印1000--2000的闰年.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="关机.cpp">
+    <ClCompile Include="22关机.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="找最大值函数.cpp">
+    <ClCompile Include="11找最大值函数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="交换整型变量的值函数.cpp">
+    <ClCompile Include="23交换整型变量的值函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25加减乘除计算机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26是否为两个质数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27字符串倒序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
