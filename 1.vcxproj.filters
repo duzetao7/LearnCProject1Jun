@@ -96,5 +96,8 @@
     <ClCompile Include="27字符串倒序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="28数组颠倒-冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
