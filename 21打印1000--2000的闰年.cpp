@@ -27,28 +27,26 @@
 #include <math.h>
 int is_leap_year(int i)
 {
-	int j;
-	for (j = 2; j <= sqrt(i); j++)
-	{
-		if (i % j == 0)
-		{
-			return 0;
-		}
-	}
-	return 1;
+	//if ((0 == i % 4 && 0 != i % 400) || 0 == i % 400)
+	//{
+	//	return 1;
+	//}
+	//else
+	//	return 0;
+	return ((0 == i % 4 && 0 != i % 400) || 0 == i % 400);//改进，真-返回1，假返回0，666啊
 }
 int main()
 {
 	int n = 0;
 	int count = 0;
-	printf("1000-2000的素数有：\n");
+	printf("1000-2000的闰年有：\n");
 	for (int i = 1000; i <= 2000; i++)
 	{
 		if (1 == is_leap_year(i))
 		{
 			printf("%d ", i);
 			count++;
-			if (count % 10 == 0)
+			if (count % 20 == 0)//10个一行
 			{
 				printf("\n");
 			}
