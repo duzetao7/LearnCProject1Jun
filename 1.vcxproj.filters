@@ -99,5 +99,37 @@
     <ClCompile Include="28数组颠倒-冒泡排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="29链式访问.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30函数的声明和定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30.1Add-Sub.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mul-Div.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30.2Mul-Div.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31整型每位打印.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32求字符串长度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33斐波那契数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34汉诺塔.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Add-Sub.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

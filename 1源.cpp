@@ -4,9 +4,15 @@
 #include <math.h>
 int main()
 {
-	float x = 2.2;
-	int isnan(float x);
-	int a = isnan(x);
-	printf("%d", a);
+	char ch1[] = "bit";            //4个元素   长度为3
+	//char ch2[] = { 'b', 'i', 't' };//3个元素   长度任意
+	char* p = ch1;
+	printf("%p\n", *p);
+	printf("%p\n", p);
+	printf("%p\n", ch1);
+	printf("%p\n", ch1[0]);
+	printf("%p\n", ch1[1]);
+	printf("%p\n", ch1[2]);
+	printf("%p\n", p + 1);
 	return 0;
 }
