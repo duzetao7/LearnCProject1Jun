@@ -2,12 +2,12 @@
 //求第n个斐波那契数。（不考虑溢出）
 #include <stdio.h>
 
-int fib(int n)//但是这种算法中有大量的重复运算，效率太低
+int Frog_fib(int n)//但是这种算法中有大量的重复运算，效率太低
 {
 	if (n == 1 || n == 2)
 		return 1;
 	else
-		return fib(n - 1) + fib(n - 2);
+		return Frog_fib(n - 1) + Frog_fib(n - 2);
 }
 int fib2(int n)//效率更快
 {

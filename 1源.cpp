@@ -14,5 +14,7 @@ int main()
 	printf("%p\n", ch1[1]);
 	printf("%p\n", ch1[2]);
 	printf("%p\n", p + 1);
+	printf("%p\n", *(p + 1));
+
 	return 0;
 }

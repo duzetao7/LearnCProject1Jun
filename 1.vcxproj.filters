@@ -72,7 +72,7 @@
     <ClCompile Include="24最大公约数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="19打印100-200的素数.cpp">
+    <ClCompile Include="19打印100-200的素数%28质数%29.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="21打印1000--2000的闰年.cpp">
@@ -124,6 +124,27 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="34汉诺塔.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35计算分式之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36遍历查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37乘法口诀表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38字符串逆序(no string.h).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39数字之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40算n的k次方.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41青蛙跳台阶.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

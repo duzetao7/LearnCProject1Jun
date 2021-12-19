@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-//接受一个整型值（无符号），按照顺序打印它的每一位。例如：输入：1234,输出1234.
+//接受一个整型值（无符号），按照顺序打印它的每一位。例如：输入：1234,输出1 2 3 4.
 void print(unsigned int n)
 {
 	if (n > 9)
