@@ -52,5 +52,6 @@ Mkfile.old
 dkms.conf
 
 # my
-*.vs
-*x64
+/.vs/
+/x64/
+*.db
