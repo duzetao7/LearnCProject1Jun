@@ -1,15 +1,9 @@
 #define _CRT_SECURE_NO_WARNINGS
-#include <stdlib.h>
-#include <string.h>
 #include <stdio.h>
 int main()
 {
-	int arr[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-	char ch1[] = "bit";
-	char ch2[] = { 'b', 'i', 't' };
-	int sz0 = sizeof(arr) / sizeof(arr[0]);
-	int sz1 = sizeof(ch1) / sizeof(ch1[0]);
-	int sz2 = sizeof(ch2) / sizeof(ch2[0]);
-	printf("%d %d %d", sz0, sz1, sz2);
-	return 0;
+    int sco[4] = {0};
+    scanf("%d;%d,%d,%d", &sco[0], &sco[1], &sco[2], &sco[3]);
+    printf("The each subject score of No. %d is %.2d, %.2d, %.2d.", sco[0], sco[1], sco[2], sco[3]);
+    return 0;
 }
