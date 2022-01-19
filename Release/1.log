@@ -1,5 +1,0 @@
-﻿  是否为两个质数之和.cpp
-D:\Programming\Code\Code.u\U1A\learnc-junior\是否为两个质数之和.cpp(41,25): error C2296: “%”: 非法，左操作数包含“float”类型
-D:\Programming\Code\Code.u\U1A\learnc-junior\是否为两个质数之和.cpp(46,7): error C2296: “%”: 非法，左操作数包含“float”类型
-D:\Programming\Code\Code.u\U1A\learnc-junior\是否为两个质数之和.cpp(67,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
-D:\Programming\Code\Code.u\U1A\learnc-junior\是否为两个质数之和.cpp(67,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“double”
