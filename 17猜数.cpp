@@ -2,13 +2,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <windows.h>
 
 void menu()
 {
-	printf("*************************\n");
-	printf("****** 1.开始游戏 *******\n");
-	printf("****** 0.退出游戏 *******\n");
-	printf("*************************\n");
+	printf("                                                  *************************\n");
+	printf("                                                  ****** 1.开始游戏 *******\n");
+	printf("                                                  ****** 0.退出游戏 *******\n");
+	printf("                                                  *************************\n");
 
 }
 void game()
@@ -37,6 +38,8 @@ void game()
 		else
 		{
 			printf("恭喜你，猜对了！\n");
+			Sleep(1000);
+			break;
 		}
 	}
 }
@@ -48,12 +51,14 @@ int main()
 	//srand玩一次只需要调用一次就够了，不然（放在rand之前）会让随机数离得太近
 	do
 	{
+		system("cls");
 		menu();//打印菜单
 		printf("请选择：>");
 		scanf("%d", &input);
 		switch (input)
 		{
 		case 1:
+			system("cls");
 			game();
 			break;
 		case 0:

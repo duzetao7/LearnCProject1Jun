@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1源.cpp">
+    <ClCompile Include="1源.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="2问题.cpp">
+    <ClCompile Include="2问题.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="3中值-乘法.cpp">
+    <ClCompile Include="3中值-乘法.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="7选择学习选择成功.cpp">
@@ -96,7 +96,7 @@
     <ClCompile Include="27字符串倒序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="28数组颠倒-冒泡排序.cpp">
+    <ClCompile Include="28.1数组颠倒-冒泡排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="29链式访问.cpp">
@@ -145,6 +145,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="41青蛙跳台阶.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28.2交换排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28.3选择排序why.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
