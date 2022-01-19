@@ -1,3 +1,13 @@
+# My configurations:
+.vs
+X64
+Project2
+/.vs/
+/x64/
+*.db
+/debug/
+*.suo
+
 # Prerequisites
 *.d
 
